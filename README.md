@@ -4,11 +4,8 @@
 
 Ready to use ImGui External Overlay project, DirectX 11 as the backend. Written in C++
 
-
  - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
  - [ImGui](https://github.com/ocornut/imgui)
-
-
 
 # Demonstration
 
